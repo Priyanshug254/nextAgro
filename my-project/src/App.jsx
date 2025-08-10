@@ -5,7 +5,7 @@ import Home from './pages/Home'
 import Auth from './pages/Auth'
 import Disease from './pages/Disease'
 import EquipmentRental from './pages/Equipment'
-import Community from './pages/community'
+import Community from './pages/Community'
 import AboutPage from './pages/AboutPage';
 import ContactPage from './pages/ContactPage';
 import PrivacyPolicyPage from './pages/PrivacyPolicyPage';
@@ -21,7 +21,7 @@ export default function App() {
             <Route path="/auth" element={<Auth />} />
             <Route path="/disease-prediction" element={<Disease />} />
             <Route path="/equipment-rental" element={<EquipmentRental />} />
-            <Route path="/community" element={<community />} />
+            <Route path="/community" element={<Community />} />
             <Route path="/about" element={<AboutPage />} />
             <Route path="/contact" element={<ContactPage />} />
             <Route path="/privacy" element={<PrivacyPolicyPage />} />
