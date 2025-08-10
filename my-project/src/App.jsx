@@ -21,7 +21,7 @@ export default function App() {
             <Route path="/auth" element={<Auth />} />
             <Route path="/disease-prediction" element={<Disease />} />
             <Route path="/equipment-rental" element={<EquipmentRental />} />
-            <Route path="/community" element={<Community />} />
+            <Route path="/community" element={<community />} />
             <Route path="/about" element={<AboutPage />} />
             <Route path="/contact" element={<ContactPage />} />
             <Route path="/privacy" element={<PrivacyPolicyPage />} />
