@@ -5,7 +5,7 @@ import Home from './pages/Home'
 import Auth from './pages/Auth'
 import Disease from './pages/Disease'
 import EquipmentRental from './pages/Equipment'
-import Community from './pages/Community'
+import Community from './pages/community'
 import AboutPage from './pages/AboutPage';
 import ContactPage from './pages/ContactPage';
 import PrivacyPolicyPage from './pages/PrivacyPolicyPage';
